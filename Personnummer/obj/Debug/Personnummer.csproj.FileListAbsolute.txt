@@ -1,0 +1,6 @@
+C:\Users\Elev\source\repos\Personnummer\bin\Debug\Personnummer.exe.config
+C:\Users\Elev\source\repos\Personnummer\bin\Debug\Personnummer.exe
+C:\Users\Elev\source\repos\Personnummer\bin\Debug\Personnummer.pdb
+C:\Users\Elev\source\repos\Personnummer\obj\Debug\Personnummer.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Personnummer\obj\Debug\Personnummer.exe
+C:\Users\Elev\source\repos\Personnummer\obj\Debug\Personnummer.pdb
