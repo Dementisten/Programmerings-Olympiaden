@@ -1,0 +1,7 @@
+C:\Users\Elev\source\repos\Hundraelva Kronor\bin\Debug\Hundraelva Kronor.exe.config
+C:\Users\Elev\source\repos\Hundraelva Kronor\bin\Debug\Hundraelva Kronor.exe
+C:\Users\Elev\source\repos\Hundraelva Kronor\bin\Debug\Hundraelva Kronor.pdb
+C:\Users\Elev\source\repos\Hundraelva Kronor\obj\Debug\Hundraelva Kronor.csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\Hundraelva Kronor\obj\Debug\Hundraelva Kronor.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Hundraelva Kronor\obj\Debug\Hundraelva Kronor.exe
+C:\Users\Elev\source\repos\Hundraelva Kronor\obj\Debug\Hundraelva Kronor.pdb
